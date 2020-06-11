@@ -1,3 +1,5 @@
+# ![FileSystemWatcher under Mono: Heavy CPU load on Linux](https://stackoverflow.com/questions/62321603/filesystemwatcher-under-mono-heavy-cpu-load-on-linux)
+
 ```
 $ docker build --tag mono_test .
 $ docker run --name mono_test --rm -it mono_test bash
