@@ -38,7 +38,7 @@ namespace MonoFSWatcherBug {
                     actualDirs++;
                 }
             }
-            Console.WriteLine($"Created {actualDirs} directories inside '{workingDirectory}'");
+            Console.WriteLine($"{actualDirs} directories are ready. Base path: '{workingDirectory}'");
             return workingDirectory;
         }
     }
