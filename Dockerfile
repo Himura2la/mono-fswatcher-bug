@@ -4,4 +4,3 @@ WORKDIR /app
 COPY . .
 RUN msbuild .
 WORKDIR /app/bin/Debug/
-CMD [ "bash" ]

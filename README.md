@@ -3,7 +3,7 @@ This repo helps you reproduce a [FileSystemWatcher with NotifyFilters.LastAccess
 
 ```
 $ docker build --tag mono_test .
-$ docker run --name mono_test --rm -it mono_test bash
+$ docker run --name mono_test --rm -it mono_test
 
 root@69c54b58dc68:/app/bin/Debug# mono MonoFSWatcherBug.exe -n   # normal behavior
 root@69c54b58dc68:/app/bin/Debug# mono MonoFSWatcherBug.exe      # bug
