@@ -1,0 +1,6 @@
+Dockerfile
+.vs
+bin
+obj
+*.user
+*.sln
