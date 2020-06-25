@@ -1,4 +1,4 @@
-This repo helps you reproduce a [FileSystemWatcher with NotifyFilters.LastAccess enters an endless loop when finds more then 4096 directories](https://github.com/mono/mono/issues/19956) bug, which I described in ![FileSystemWatcher under Mono: Heavy CPU load on Linux](https://stackoverflow.com/questions/62321603/filesystemwatcher-under-mono-heavy-cpu-load-on-linux) StackOverflow question
+This repo helps you reproduce a [FileSystemWatcher with NotifyFilters.LastAccess enters an endless loop when finds more then 4096 directories](https://github.com/mono/mono/issues/19956) bug, which I described in [FileSystemWatcher under Mono: Heavy CPU load on Linux](https://stackoverflow.com/questions/62321603/filesystemwatcher-under-mono-heavy-cpu-load-on-linux) StackOverflow question
 
 
 ```
